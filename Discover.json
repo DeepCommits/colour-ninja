@@ -37,13 +37,6 @@
       "url": "https://fonts.google.com?ref=colourninja",
       "icon": "🔤",
       "category": "Typography"
-    },
-    {
-      "name": "Heroicons",
-      "description": "Beautiful hand-crafted SVG icons",
-      "url": "https://heroicons.com?ref=colourninja",
-      "icon": "⭐",
-      "category": "Icons"
     }
   ]
 }
