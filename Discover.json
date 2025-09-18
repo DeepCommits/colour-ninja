@@ -1,1 +1,49 @@
-
+{
+  "updatedAt": "2025-09-18T10:00:00Z",
+  "tools": [
+    {
+      "name": "Coolors",
+      "description": "Generate beautiful color palettes",
+      "url": "https://coolors.co?ref=colourninja",
+      "icon": "🎨",
+      "category": "Color Tools",
+      "featured": true
+    },
+    {
+      "name": "Adobe Color",
+      "description": "Create color schemes with Adobe",
+      "url": "https://color.adobe.com?ref=colourninja",
+      "icon": "🌈",
+      "category": "Color Tools"
+    },
+    {
+      "name": "Figma",
+      "description": "Collaborative design platform",
+      "url": "https://figma.com?ref=colourninja",
+      "icon": "🎯",
+      "category": "Design Tools",
+      "featured": true
+    },
+    {
+      "name": "Unsplash",
+      "description": "Free high-quality stock photos",
+      "url": "https://unsplash.com?ref=colourninja",
+      "icon": "📸",
+      "category": "Resources"
+    },
+    {
+      "name": "Google Fonts",
+      "description": "Free web fonts for your projects",
+      "url": "https://fonts.google.com?ref=colourninja",
+      "icon": "🔤",
+      "category": "Typography"
+    },
+    {
+      "name": "Heroicons",
+      "description": "Beautiful hand-crafted SVG icons",
+      "url": "https://heroicons.com?ref=colourninja",
+      "icon": "⭐",
+      "category": "Icons"
+    }
+  ]
+}
