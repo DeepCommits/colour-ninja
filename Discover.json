@@ -1,13 +1,14 @@
 {
-  "updatedAt": "2025-09-18T10:00:00Z",
+  "updatedAt": "2025-09-26T10:00:00Z",
   "tools": [
     {
-      "name": "Heroicons",
-      "description": "Beautiful hand-crafted SVG icons",
-      "url": "https://heroicons.com?ref=colourninja",
-      "icon": "⭐",
-      "category": "Icons"
+      "name": "Producthunt",
+      "description": "Check & upvote if useful ❤️",
+      "url": "https://www.producthunt.com/products/colour-ninja?utm_source=other&utm_medium=social",
+      "icon": "Ⓟ",
+      "category": "Need your Support"
     },
+    
     {
       "name": "Coolors",
       "description": "Generate beautiful color palettes",
